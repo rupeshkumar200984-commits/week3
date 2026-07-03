@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 10px;
+  margin: auto;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+img {
+  border-radius: 5px;
+}
